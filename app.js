@@ -22,5 +22,5 @@ document.addEventListener('DOMContentLoaded', function () {
   //marker.bindPopup("Salve Salveeee").openPopup();
 
   var marker2 = L.marker([-23.543898711295792, -46.76654347504026], {icon: greenIcon}).addTo(map);
-  marker2.bindPopup("Chupaaaaa!! Vou te cume!!").openPopup();
+  marker2.bindPopup("Miauuu").openPopup();
 });
