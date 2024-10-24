@@ -18,9 +18,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
   // Create a marker with popup and add it to the map
-  var marker = L.marker([-23.516858811278148, -46.83549726328389]).addTo(map);
-  marker.bindPopup("Salve Salveeee").openPopup();
+  //var marker = L.marker([-23.516858811278148, -46.83549726328389]).addTo(map);
+  //marker.bindPopup("Salve Salveeee").openPopup();
 
-  var marker2 = L.marker([-23.52026413037824, -46.83670586136634], {icon: greenIcon}).addTo(map);
+  var marker2 = L.marker([-23.543898711295792, -46.76654347504026], {icon: greenIcon}).addTo(map);
   marker2.bindPopup("Chupaaaaa!! Vou te cume!!").openPopup();
 });
